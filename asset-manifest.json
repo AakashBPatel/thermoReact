@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/thermoReact/static/css/main.0aec9769.css",
+    "main.js": "/thermoReact/static/js/main.b3912dda.js",
+    "static/js/787.28cb0dcd.chunk.js": "/thermoReact/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/thermoReact/index.html",
+    "main.0aec9769.css.map": "/thermoReact/static/css/main.0aec9769.css.map",
+    "main.b3912dda.js.map": "/thermoReact/static/js/main.b3912dda.js.map",
+    "787.28cb0dcd.chunk.js.map": "/thermoReact/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aec9769.css",
+    "static/js/main.b3912dda.js"
+  ]
+}
