@@ -1,0 +1,9 @@
+.calc_body{
+  display:grid;
+}
+#root{
+  margin: 10px 10px 10px 20px;
+}
+button{
+  width: 100px;
+}
